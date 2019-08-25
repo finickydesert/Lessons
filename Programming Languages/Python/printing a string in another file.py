@@ -1,7 +1,10 @@
 import webbrowser
 import urllib.parse
 try:
-    10/0 #something
+    myfile = open(C:\Users\richa\Google Drive\code\Github\Lessons\Programming Languages\Python\filename.txt)
+    print(myfile)
+    input()
+
 except Exception as e:
     url = 'http://stackoverflow.com/search?q=' + urllib.parse.quote('Python %s' % e)
     print(url)
