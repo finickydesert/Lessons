@@ -1,9 +1,12 @@
 import webbrowser
 import urllib.parse
+
+path = 'C:\Users\richa\Google Drive\code\Github\Lessons\Programming Languages\Python\filename.txt'
+
 try:
-    myfile = open(filename.txt)
+    myfile = open(path, 'r')
     print(myfile)
-    input()
+    input('yo')
 
 except Exception as e:
     url = 'http://stackoverflow.com/search?q=' + urllib.parse.quote('[python-3.x] %s' % e)
