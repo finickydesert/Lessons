@@ -1,7 +1,7 @@
 import webbrowser
 import urllib.parse
 try:
-    myfile = open(C:\Users\richa\Google Drive\code\Github\Lessons\Programming Languages\Python\filename.txt)
+    myfile = open(filename.txt)
     print(myfile)
     input()
 
