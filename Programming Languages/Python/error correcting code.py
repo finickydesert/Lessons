@@ -7,4 +7,4 @@ except Exception as e:
     print(url)
     webbrowser.open(url)
 #i got the original from: https://twitter.com/wittrup/status/697059127256817667
-#i modifyed it to point to tagged post for python 3
+#i modifyed it to point to tagged post for python 3 
