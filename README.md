@@ -1,2 +1,6 @@
 # Lessons
-what I am learning from: udemy
+what I am learning from:
+udemy
+coursera
+sololearn
+codeacademy
