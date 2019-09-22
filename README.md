@@ -4,3 +4,5 @@ udemy
 coursera
 sololearn
 codeacademy
+itprotv
+linkedin learning
