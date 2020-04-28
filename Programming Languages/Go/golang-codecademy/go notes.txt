@@ -1,0 +1,29 @@
+command		what it does
+
+go build	compile a program into a excutable file
+
+./"name"	exicute the binary
+
+go run		command combines both the compilation and execution of code 
+				note: Unlike go build, go run will NOT create executable file in our current folder
+
+package main 	is needed to tell the compilier that this is the progeam and not the library
+
+import 		imports parts of reuseable code to be used in your program.
+				note: () will be needed if importing multiple
+				note 2: always "" them
+				note 3: you can also alias the imports by p1 "package1" type of formatting
+
+func		indicates the begining of a function 
+				note this command usually setup as func main (){
+														code block
+													}
+		                                            kind of format
+		
+//			single line formatting
+/* */		multiple line formatting
+go doc "command"	manpages of the command, not quite concise as tldr though
+const		are variables that do not change once set while the program is running. 
+				note: const names do not have spaces
+				note 2: camelcase son!
+go has 3 types of numeric data types: int, float, and complex (imaginary) 
