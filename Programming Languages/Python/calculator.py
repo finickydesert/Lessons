@@ -7,7 +7,7 @@ def get_answer():
   num1 = float(input("enter the first number"))
   num2 = float(input("input the second number"))
 while x == True:
-  user_input = input("to use this calulator, you must enter the following options exactlty:/nadd/nsubtract/nmultiply/ndivide/nandquit/nso, what do you want to do?")
+  user_input = input("to use this calulator, you must enter the following options exactly:/nadd/nsubtract/nmultiply/ndivide/nandquit/nso, what do you want to do?")
   if user_input == "add":
       get_answer()
       result = num1 + num2
