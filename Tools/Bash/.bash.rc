@@ -1,3 +1,0 @@
-alias ll='ls -al'
-alias npp='notepad++'
-alias gcom='git commit -am "just updating"'

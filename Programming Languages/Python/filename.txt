@@ -1,9 +1,0 @@
-test
-https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
-https://stackoverflow.com/search?q=%5Bpython-3.x%5D%20%5BErrno%202%5D%20No%20such%20file%20or%20directory%3A%20%27filename.txt%27
-# a file named "redme", will be opened with the reading mode. 
-file = open('redme.txt', 'r') 
-# This will print every line one by one in the file 
-for each in file: 
-    print (each)
-https://www.tutorialspoint.com/python/python_files_io.htm
