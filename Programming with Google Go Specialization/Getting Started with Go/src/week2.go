@@ -13,7 +13,7 @@ Variable Scope:
 the places in the code where a var can be accesed
 Blocks are used for var scoping in go
 a sequence of declerations and statements within matching {} (brakets)
--including function deffinitions 
+-including function deffinitions
 hierarchy of implicit blocks
 universal block: all go source
 package block: all source in a package
@@ -23,7 +23,7 @@ clauses that are in switch or select
 */
 /*
 lexical scoping
-watch the vid for a majority of explanation 
+watch the vid for a majority of explanation
 */
 /*
 Deallocating Memory
@@ -36,6 +36,5 @@ data on heap must be deallocated when done being used.
 ex:
 x = mark(32);
 free(x)
-
-
+error prone, but fast.
 */
