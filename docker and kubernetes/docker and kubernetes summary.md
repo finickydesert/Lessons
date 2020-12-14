@@ -1,5 +1,5 @@
 have a ubuntu vm on hand for this
-i will either at some point keep this as a text file or change it to .md or even go crazy and bring it into a go file. 
+i might bring it into a go file as a note like the notes i have for go. 
 
 videos used:
 prep vids: https://www.youtube.com/watch?v=eGz9DS-aIeY , https://www.youtube.com/watch?v=7bA0gTroJjw
