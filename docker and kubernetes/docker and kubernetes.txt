@@ -1,0 +1,15 @@
+have a ubuntu vm on hand for this
+i will either at some point keep this as a text file or change it to .md or even go crazy and bring it into a go file. 
+
+videos used:
+prep vids: https://www.youtube.com/watch?v=eGz9DS-aIeY , https://www.youtube.com/watch?v=7bA0gTroJjw
+actual vid: 
+
+docker Commands (note all commands are uncap, it keeps getting autocorrected to cap) 
+
+run: execute whatever “docker run ngnix”. If not there then it’ll go out and get it. 
+ps: list all containers 
+rm: remove container “docker rm “name of container” 
+Images: see what images and sizes of those images “docker images” *don’t remove images if they are being used *you must stop and delete containers that use the image before deleting the image 
+
+Kubernetes
