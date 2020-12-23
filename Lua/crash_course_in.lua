@@ -6,3 +6,5 @@ print("local (var name) is a way to assign vars but, as the prefix states local 
 print("usually you don't have to specify the type.")
 print("to concatinate you would need to  ' .. ' (kind of like +) between the 2 objects you want to concatinate together")
 print("if then and end are the basics of the if statement. if elseif else end are what you could use for validating like elif in python")
+print("inequality mathmatically speaking ~= means inequality instead <> or ><")
+print("when combining statements use and if both are true. use or if 1 or more are true.") 
